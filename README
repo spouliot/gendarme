@@ -1,11 +1,16 @@
-NOTE: This is not the offical Gendarme source repository. 
+NOTE: This is not the official Gendarme source repository. 
 
 The official repository is:
 https://github.com/mono/mono-tools/
 
 This repository is used:
+
 * for unsupported tools (sources) not part of the Gendarme distribution
+
 * download of the win32 installer and ZIPped binaries
+https://github.com/spouliot/gendarme/downloads
+
 * git-based wiki / documentation
+https://github.com/spouliot/gendarme/wiki
 
 In short nothing worth the time (or the electrons) cloning.
